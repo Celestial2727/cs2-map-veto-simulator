@@ -24,4 +24,4 @@ python cs2_map_veto_simulator.py
 
 ## Author
 
-Killian Deschamps
+Celestial
