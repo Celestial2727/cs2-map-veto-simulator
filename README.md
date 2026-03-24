@@ -1,6 +1,6 @@
 # cs2-map-veto-simulator
 
-# CS:GO Map Veto Simulator 🎮
+# CS:GO Map Veto Simulator 
 
 A simple Python app that simulates CS:GO map veto (like FACEIT) against an AI.
 
